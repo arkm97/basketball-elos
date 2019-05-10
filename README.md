@@ -9,12 +9,12 @@ To make things interesting, I implement an Elo rating system for all the teams, 
 Trained on data from the 2009 - 2016 seasons, I can predict the outcome of the 2017 season with >65% accuracy. For fun, I also trained and scored a Random Forest classifier.
 
 ### Packages 
-'''
+```
 pandas
 sklearn
 numpy
 matplotlib
-'''
+```
 
 ### Acknowledgements
 FiveThirtyEight's [Elo rating system](https://fivethirtyeight.com/features/how-we-calculate-nba-elo-ratings/)
